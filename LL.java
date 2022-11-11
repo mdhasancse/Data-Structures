@@ -71,7 +71,7 @@ public class LL {
     {
         if(head == null)
         {
-            System.out.println("the lost is empty");
+            System.out.println("the list is empty");
             return;
         }
         head = head.next;
